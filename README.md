@@ -1,4 +1,4 @@
-# 🌪️ Multi-Task Disaster & Severity Classification
+# 🌪️ Multi-Task Disaster & Severity Classification:
 
 A deep learning computer vision pipeline built with TensorFlow/Keras that simultaneously predicts the **type of a natural disaster** and its **intensity level** from a single image using a multi-output architecture.
 
